@@ -1,4 +1,3 @@
-import './App.css';
 import React from 'react';
 import Navbar from './components/Navbar';
 import Hero from './components/Hero';
@@ -18,6 +17,7 @@ function App() {
         <About />
         <Skills />
         <Projects />
+        <Contact />
       </main>
       <Footer />
     </>
